@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    margin-top: 3rem;
+    border-color: aqua;
+    background-color: aquamarine;
+
+}
+
+#listbox{
+    position: relative;
+    justify-content: center;
+}
+#addBtn{
+    position: relative;
+    left: 10px;
+    width: 80px;
+    background-color: darksalmon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#addBtn:hover{
+    cursor: pointer;    
+}
+#list{
+    list-style: none;
+}
+#deleteBtn{
+    position: relative;
+    left: 135px;
+    background-color: bisque;
+}
+#liSt{
+    position: relative;
+    right: 80px;
+    top: 20px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
